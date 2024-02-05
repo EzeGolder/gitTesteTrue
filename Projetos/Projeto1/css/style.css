@@ -1,0 +1,25 @@
+.cabecalho{
+   display: flex;
+}
+body{
+    
+    padding-left: 450px;
+   
+}
+
+#info{
+    
+    padding-left: 50px;
+
+
+}
+#titulo{
+    padding-left: 400px;
+    padding-bottom: 50px;
+}
+#info{
+    display: grid;
+}
+
+
+
